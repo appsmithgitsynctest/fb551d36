@@ -5,13 +5,15 @@
     "Page1",
     "ApiCalls_1",
     "Page2",
-    "Page3"
+    "Page3",
+    "Child_Page"
   ],
   "publishedPageOrder": [
     "Page1",
     "ApiCalls_1",
     "Page2",
-    "Page3"
+    "Page3",
+    "Child_Page"
   ],
   "publishedDefaultPageName": "Page1",
   "unpublishedDefaultPageName": "Page1",
@@ -28,7 +30,19 @@
       "unpublishedUserSetOnLoad": false,
       "publishedUserSetOnLoad": false
     },
+    "ApiCalls_1_JSObject1.myFun1": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    },
+    "ApiCalls_1_JSObject1.myFun2": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    },
     "ApiCalls_1_get_data": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    },
+    "ApiCalls_1_get_users": {
       "unpublishedUserSetOnLoad": false,
       "publishedUserSetOnLoad": false
     },
